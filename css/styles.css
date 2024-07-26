@@ -9,6 +9,7 @@ body {
 }
 
 img {
-  height: 300px;
+  height: min-content;
   width: 500px;
+  background-color: white;
 }
